@@ -1,3 +1,10 @@
+/***************************************************************************************
+ * llenartxts.c: Generador de txt's cada uno con 2 números aleatorios de tamaño N
+ * Programmer: Cristobal Gallardo Cubillos 
+ * Santiago de Chile, 20/10/2024
+ *
+ **************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
